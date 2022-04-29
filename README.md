@@ -1,5 +1,5 @@
 # dio-desafio-github-primeiro-repositorio
-Repositório criado para o desafio de projeto.
+Repositório desafio de projeto.
 
 ## Apresentação
 Repositório criado para a aula de desafio de projeto da DIO
